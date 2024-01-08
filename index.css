@@ -3,6 +3,8 @@
   height: 20px;
   position: absolute;
   width: 40px;
+ moveDodgerLeft ()
+ moveDodgerRight ()
 }
 
 #game {
